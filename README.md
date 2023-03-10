@@ -1,2 +1,2 @@
 # DIO-Java
-Pepositório para armazenar todo o conteúdo de Java
+Repositório para armazenar todo o conteúdo de Java
